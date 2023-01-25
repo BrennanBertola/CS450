@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02d99cec-0aa0-41d9-84d9-51cd84c4d8ce" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project1-Edges-Hough.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Project1-Edges-Hough.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +44,8 @@
       <workItem from="1674438810521" duration="1755000" />
       <workItem from="1674489314600" duration="4308000" />
       <workItem from="1674600304602" duration="282000" />
-      <workItem from="1674662007349" duration="1472000" />
+      <workItem from="1674662007349" duration="1494000" />
+      <workItem from="1674669876617" duration="4678000" />
     </task>
     <servers />
   </component>
@@ -70,11 +72,6 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook:///Users/brennanbertola/School/CS450/proj1-edges-hough/Project1-Edges-Hough.ipynb</url>
-          <line>225</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook://S:/School/CS450/proj1-edges-hough/Project1-Edges-Hough.ipynb</url>
           <line>238</line>
           <option name="timeStamp" value="14" />
@@ -88,6 +85,21 @@
           <url>notebook://S:/School/CS450/proj1-edges-hough/Project1-Edges-Hough.ipynb</url>
           <line>254</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/brennanbertola/School/CS450/proj1-edges-hough/Project1-Edges-Hough.ipynb</url>
+          <line>281</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/brennanbertola/School/CS450/proj1-edges-hough/Project1-Edges-Hough.ipynb</url>
+          <line>232</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/brennanbertola/School/CS450/proj1-edges-hough/Project1-Edges-Hough.ipynb</url>
+          <line>231</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
