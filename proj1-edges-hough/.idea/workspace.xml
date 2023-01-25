@@ -43,6 +43,8 @@
       <updated>1674438809414</updated>
       <workItem from="1674438810521" duration="1755000" />
       <workItem from="1674489314600" duration="4308000" />
+      <workItem from="1674600304602" duration="282000" />
+      <workItem from="1674662007349" duration="1367000" />
     </task>
     <servers />
   </component>
@@ -65,12 +67,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook:///Users/brennanbertola/School/CS450/proj1-edges-hough/Project1-Edges-Hough.ipynb</url>
-          <line>203</line>
+          <line>211</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook:///Users/brennanbertola/School/CS450/proj1-edges-hough/Project1-Edges-Hough.ipynb</url>
-          <line>217</line>
+          <line>225</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
