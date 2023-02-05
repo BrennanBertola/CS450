@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f951b6e6-67d0-4959-ad55-43ff19015d91" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/user_data/boo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/proj2-segmentation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/proj2-segmentation.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project2-Segmentation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Project2-Segmentation.ipynb" afterDir="false" />
     </list>
@@ -27,11 +30,18 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;S:/School/CS450/proj2-segmentation/user_data&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="S:\School\CS450\proj2-segmentation\user_data" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,6 +54,12 @@
       <workItem from="1675448014957" duration="939000" />
       <workItem from="1675448997363" duration="1483000" />
       <workItem from="1675451069871" duration="414000" />
+      <workItem from="1675495939157" duration="287000" />
+      <workItem from="1675548193494" duration="240000" />
+      <workItem from="1675548441737" duration="622000" />
+      <workItem from="1675549074868" duration="358000" />
+      <workItem from="1675549442653" duration="4444000" />
+      <workItem from="1675553928151" duration="2125000" />
     </task>
     <servers />
   </component>
