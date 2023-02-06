@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f951b6e6-67d0-4959-ad55-43ff19015d91" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/user_data/boo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/proj2-segmentation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/proj2-segmentation.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project2-Segmentation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Project2-Segmentation.ipynb" afterDir="false" />
     </list>
@@ -60,6 +57,7 @@
       <workItem from="1675549074868" duration="358000" />
       <workItem from="1675549442653" duration="4444000" />
       <workItem from="1675553928151" duration="2125000" />
+      <workItem from="1675698781664" duration="1188000" />
     </task>
     <servers />
   </component>
@@ -82,13 +80,8 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook:///Users/brennanbertola/School/CS450/proj2-segmentation/Project2-Segmentation.ipynb</url>
-          <line>130</line>
+          <line>127</line>
           <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook:///Users/brennanbertola/School/CS450/proj2-segmentation/Project2-Segmentation.ipynb</url>
-          <line>84</line>
-          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
