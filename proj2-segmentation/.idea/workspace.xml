@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f951b6e6-67d0-4959-ad55-43ff19015d91" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project2-Segmentation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Project2-Segmentation.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="f951b6e6-67d0-4959-ad55-43ff19015d91" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +56,7 @@
       <workItem from="1675553928151" duration="2125000" />
       <workItem from="1675698781664" duration="1188000" />
       <workItem from="1675729009654" duration="491000" />
+      <workItem from="1675815834160" duration="78000" />
     </task>
     <servers />
   </component>
